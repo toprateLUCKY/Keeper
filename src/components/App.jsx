@@ -36,8 +36,6 @@ function App() {
           />
         );
       })}
-      <Note key={1} title="Note title" content="Note content" />
-      <Note key={1} title="Note title" content="These notes should be deleted" />
       <Footer />
     </div>
   );
